@@ -7,7 +7,7 @@ import notes from '../../assets/images/cover/notes.jpg'
 import algorithm from '../../assets/images/cover/algorithm.jpg'
 
 import './HomeContentItem.less';
-import { CATEGORY_COLORS } from '../../utils/constants';
+// import { CATEGORY_COLORS } from '../../utils/constants';
 import { UPDATE_MENU_KEY } from '../../store/types';
 
 const HomeContentItem = ({ dispatch, ownProps }) => {
